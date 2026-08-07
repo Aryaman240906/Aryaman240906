@@ -29,9 +29,6 @@ An undergrad Computer Science student passionate about building intelligent, sca
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aryaman240906&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=Aryaman240906&icon=9&color=8)](https://visitcount.itsvg.in)
 
