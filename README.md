@@ -6,8 +6,8 @@ An undergrad Computer Science student passionate about building intelligent, sca
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaaryyammannn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/aryaman-singh-76a50b38a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryamans877@gmail.com) 
+## 🌐 Socials
+[![LinkedIn](https://shields.io)](https://linkedin.com) [![Email](https://shields.io)](mailto:aryamans877@gmail.com)
 
 
 # 💻 Tech Stack:
