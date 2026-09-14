@@ -7,7 +7,8 @@ An undergrad Computer Science student passionate about building intelligent, sca
 </div>
 
 ## 🌐 Socials
-[![LinkedIn](https://shields.io)](https://linkedin.com) [![Email](https://shields.io)](mailto:aryamans877@gmail.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com) 
+[![Email](https://shields.io)](mailto:aryamans877@gmail.com)
 
 
 # 💻 Tech Stack:
