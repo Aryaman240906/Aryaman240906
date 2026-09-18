@@ -10,6 +10,15 @@ An undergrad Computer Science student passionate about building intelligent, sca
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaman-singh-76a50b38a)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryamans877@gmail.com)
 
+<h2 align="center">📊 GitHub Analytics</h2>
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=Aryaman240906&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=12" height="180" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=Aryaman240906&theme=tokyonight&hide_border=true&border_radius=12" height="180" alt="GitHub Streak"/>
+</div>
+<br>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Aryaman240906&label=PROFILE+VIEWS&color=6E56CF&style=for-the-badge" alt="Profile Views"/>
+</div>
 
 # 💻 Tech Stack
 
