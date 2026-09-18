@@ -1,6 +1,7 @@
 # 💫 💫 Heyy 👋, I'm Aryaman Singh :
 An undergrad Computer Science student passionate about building intelligent, scalable software with strong engineering fundamentals. I enjoy solving complex problems through first-principles thinking, designing clean and maintainable systems and building AI-native applications that create real-world impact. I am always trying to learn new concepts, build something of value and stay committed towards becoming a good software engineer.<br>
 
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&height=55&lines=AI-Native+Full+Stack+Engineer;Building+Scalable+Software+%26+AI+Systems;C%2B%2B+%7C+Python+%7C+Java+%7C+TypeScript;Systems+%7C+AI+%7C+Distributed+Engineering;Always+Learning.+Always+Building." alt="Typing Animation"/></p>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
