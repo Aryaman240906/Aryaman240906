@@ -125,7 +125,6 @@ A focused **Java-first SDE + modern full-stack + AI engineering** stack.
 ### Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**AWS:** IAM · VPC · EC2 · RDS · S3 · ECR · EKS · ElastiCache · ALB · CloudFront · Route 53 · SQS · Lambda · CloudWatch · Secrets Manager · KMS
 
 ### Containers & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -166,19 +165,6 @@ A focused **Java-first SDE + modern full-stack + AI engineering** stack.
 ![CodeQL](https://img.shields.io/badge/CodeQL-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
 
-### Core Engineering Practices
-- Data Structures & Algorithms
-- Object-Oriented Design
-- Operating Systems
-- Computer Networks
-- Database Systems
-- Concurrency & Multithreading
-- Distributed Systems
-- Software Architecture
-- System Design
-- Debugging
-- Code Review
-- Documentation
 
 ## 🏆 Leetcode Badges
 <div align="center">
