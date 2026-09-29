@@ -21,9 +21,7 @@ An undergrad Computer Science student passionate about building intelligent, sca
 <img src="https://komarev.com/ghpvc/?username=Aryaman240906&label=PROFILE+VIEWS&color=6E56CF&style=for-the-badge" alt="Profile Views"/>
 </div>
 
-# 💻 Tech Stack
-
-A focused **Java-first SDE + modern full-stack + AI engineering** stack.
+# 💻 Tech Stack :
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
